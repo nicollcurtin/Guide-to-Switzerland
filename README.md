@@ -1,32 +1,50 @@
-# Entertainment
+# Employment Passes
 
-Zurich has a wide array of attractions on offer, from museums and theatres, to parks and nightlife. We’ve compiled just a few of our favourites below.
+<b>Work Permit?</b><br><br>
+•	EU/EFTA citizens also need to apply for work authorisation. <br>
+•	If you are not an EU/EFTA citizen you will need to get a special residence permit with authorisation to work in Switzerland. <br>
+<br><b>Applying for a Work Permit</b><br><br>
+You will need to submit the following:<br>
+•	Passport<br>
+•	Your employment contract<br>
+•	Proof of residence<br>
+•	Photo <br>
+<br><b>Types of Work Permits</b><br><br>
+https://www.bfm.admin.ch/bfm/en/home/themen/arbeit.html<br>
+<b>Permit L</b> – Short term.<br>
+<b>Permit B</b> – Temporary residence permit.<br>
+<b>Permit C</b> – For those who have been living for 10 continuous years in Switzerland<br>
+<br><b>Employment and Unemployment Benefits</b><br><br>
+Switzerland is known for having excellent working conditions, the highest employment rates in the world and good salaries. However, if you become unemployed you are entitled to benefits. After losing your job the first thing you want to do is register yourself in the RAV (Regionale Arbeitsvermittlungszentren). This way you can claim unemployment benefits, as long as you have already been working in Switzerland for one year. The RAV makes sure that for a period of time you receive a high percentage (normally about 70%) of your previous salary. In many cases the RAV will also help you with German lessons and other ways of getting back into work.
+<br><br><b>For further information consult the links below:</b><br>
+http://www.treffpunkt-arbeit.ch/<br>
+www.ch.ch/en/unemployment<br>
+www.seco.admin.ch<br>
 
-<b>Hop On A Boat</b><br>
-If you’re looking to explore the city, why not do it in style? Fun, practical, and comfortable, it’s hard to think of a better way to discover the beauty of Zurich.
-<br><br><b>Head Up to Uetliberg</b><br>
-Treat yourself to some mountaintop relaxation, just 15 minutes by rail from the main station. Once you’re at the top, soak up picturesque views in every direction, or kick back with a drink in the Restaurant Uto Kulm. 
-<b><br><br>Explore Zurich West</b><br>
-Home to shops, bars, restaurants and the Viaduct, Zurich West is the heart of the city, and definitely not a spot you want to miss. 
-<b><br><br>Cycle</b><br>
-Cycle from site to site - for free! Just leave a CHF 20 deposit at one of the Züri rollt containers, and you’re off. Daily 8.00am – 9.30pm. 
-<b><br><br>Take a Tram</b><br>
-Trams in Zurich are more than mere transportation; they’re an experience in themselves. There are a whole range of special trams offering dinner and drinks – check out the sushi tram, the fondue tram, or the apéro tram. 
-<b><br><br>Museums and Galleries</b><br>
-If you’re a culture lover, you’re in the right place – Zurich offers more than 60 museums and over 100 galleries.  Below are just a handful of our favourites:
-<br>•	http://www.kunsthaus.ch
-<br>•	http://www.musee-suisse.ch/d/zuerich/index.php
-<br>•	http://www.rietberg.ch
-<br>•	http://www.gs.ethz.ch 
-<br>•	http://www.coninx-museum.ch 
-<b><br><br>Nightlife</b><br>
-Nightlife in Zurich is nothing if not lively. Surrounded with bars and nightclubs, it’s not hard to find a place to party, whether you’re into rock, pop or hip-hop.
-<b><br><br>Shopping</b><br>
-Zurich is well-known for being a shopping city. Bahnhofstrasse is famous for being one of the most exclusive shopping streets in the world, and Niederdorf and the Sihlcity shopping centre are also good spots. Shop until you drop, but keep in mind that (except for the train station stores) all shops are closed on Sundays.
-<b><br><br>Cinemas</b><br>
-It’s not difficult to find movies in English, however most films have subtitles in the three official languages of Switzerland: German, French and Italian.
-<br>•	http://www.cineman.ch/en/showtimes/Z%C3%BCrich/
-<b><br><br>Festivals</b><br>
-Come summer or winter, Switzerland has festivals all year round. Whether you’re in the mood for pop, rock, jazz, or classical music, Zurich always has something to offer.
-<br>•	http://www.myswitzerland.com/en-gb/service-updates/events.html?strubrik=1472
-<br>•	https://www.ricksteves.com/europe/switzerland/festivals
+#Accommodation<br>
+There are plenty of websites for arranging accommodation, as well as local estate agents who can help. <br>
+
+• <a href="http://www.homegate.ch/de">Homegate</a><br>
+• <a href="http://www.immostreet.ch/fr/HomePage">Immostreet</a><br>
+• <a href="http://immo.search.ch/">Immo Search</a><br>
+• <a href="http://www.immoscout24.ch/en/find/">Immoscout 24</a><br>
+• Estate agents: <a href="http://www.die-immobilienmakler.ch/">Die Immobilienmakler</a><br>
+• Short term and long term option: <a href="http://www.ronorp.net/zurich_en/classifieds/a-roof-over-your-head-zurich_en.25">Ronorp</a><br>
+• For shared flats: <a href="http://www.wgzimmer.ch/">WG Zimmer</a><br>
+
+#Further Information<br>
+
+• Official tourism site of Switzerland <br>
+ http://www.myswitzerland.com/en-gb/accueil.html
+
+• Switzerland government immigration site <br>
+https://www.bfm.admin.ch/bfm/en/home/themen/einreise.html
+
+• Official site for information about working in Switzerland<br>
+http://www.asn.ch/en/for-individuals/international-professionals-working-in-switzerland/?gclid=CIqItLCOj8cCFRLMtAoddbkM9Q
+
+• Expatriate information site and blogs<br>
+https://www.ch.ch/en/living-switzerland-foreign-national/
+
+• Information about renting property in Switzerland<br>
+http://www.swissboardinghouse.ch/start.php?spracheX=en&gclid=CLzk0oaQj8cCFS3ItAod-qIFAw
