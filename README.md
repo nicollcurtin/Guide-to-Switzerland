@@ -4,7 +4,7 @@
 •	EU/EFTA citizens also need to apply for work authorisation. <br>
 •	If you are not an EU/EFTA citizen you will need to get a special residence permit with authorisation to work in Switzerland. <br>
 <br><b>Applying for a Work Permit</b><br><br>
-To apply, go to the Kreisburo. You will need to submit the following:<br>
+To apply, go to the Kreisburo. You will need to submit the following:<br><br>
 •	Passport<br>
 •	Your employment contract<br>
 •	Proof of residence<br>
@@ -78,7 +78,7 @@ Temporary and permanent residents in Switzerland are subject to unlimited tax li
 https://www.ch.ch/en/taxes/
 http://taxsummaries.pwc.com/uk/taxsummaries/wwts.nsf/ID/Switzerland-Individual-Taxes-on-personal-income
 
-# <br><b>Employment and Unemployment Benefits</b><br><br>
+# <b>Employment and Unemployment Benefits</b>
 Switzerland is known for having excellent working conditions, the highest employment rates in the world and good salaries. However, if you become unemployed you are entitled to benefits. After losing your job the first thing you want to do is register yourself in the RAV (Regionale Arbeitsvermittlungszentren). This way you can claim unemployment benefits, as long as you have already been working in Switzerland for one year. The RAV makes sure that for a period of time you receive a high percentage (normally about 70%) of your previous salary. In many cases the RAV will also help you with German lessons and other ways of getting back into work.
 <br><br><b>For further information consult the links below:</b><br>
 http://www.treffpunkt-arbeit.ch/<br>
