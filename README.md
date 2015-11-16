@@ -1,9 +1,33 @@
 #Guide to Switzerland
 
+#<b>Work Permit</b>
+•	EU/EFTA citizens also need to apply for work authorisation. <br>
+•	If you are not an EU/EFTA citizen you will need to get a special residence permit with authorisation to work in Switzerland. <br>
+<br><b>Applying for a Work Permit</b><br><br>
+To apply, go to the Kreisburo. You will need to submit the following:<br>
+•	Passport<br>
+•	Your employment contract<br>
+•	Proof of residence<br>
+•	Photo (they will normally have a photo machine at the Kreisburo).<br>
+
+The Kreisburo will take photocopies for you so there is no need to need to get copies made prior to your application.
+
+<b>Types of Work Permits</b><br><br>
+https://www.bfm.admin.ch/bfm/en/home/themen/arbeit.html<br>
+<b>Permit L</b> – This is a short-term permit for contracts of less than one year.<br>
+<b>Permit B</b> – This is the normal permit for EU residents coming with a permanent job already arranged.<br>
+<b>Permit C</b> – For those who have been living for 10 continuous years in Switzerland<br>
+
+It is worth noting that you usually can't get a full permit if you are staying in a hotel. AirBnb is counted as a hotel, unless you get a special contract from the landlord. In some cases a letter will do, but acceptance of this varies depending on the Kreisburo.
+
+#Phone Contract
+
+It is recommended that you arrange your phone contract before your bank account, as it will be useful to be able to give the bank your new Swiss phone number. You will be asked for your residence permit, but your temporary one will suffice.
+
 #Banking
 
 <b>Choosing a Bank</b><br>
-Once you are in Switzerland, one of the first steps is to open a Swiss bank account. There are hundreds of banks in Switzerland, below are a few of them:
+Once you are in Switzerland, one of the first steps is to open a Swiss bank account. To do this you will need to take along your contract and residence permit, as outlined in the earlier steps. There are hundreds of banks in Switzerland, below are a few of them:
 
 •	<b>UBS</b> (website available in English)<br>
 http://www.ubs.com/1/e/schweiz.html<br>
@@ -54,24 +78,7 @@ Temporary and permanent residents in Switzerland are subject to unlimited tax li
 https://www.ch.ch/en/taxes/
 http://taxsummaries.pwc.com/uk/taxsummaries/wwts.nsf/ID/Switzerland-Individual-Taxes-on-personal-income
 
-
-# Employment Passes
-
-<b>Work Permit?</b><br><br>
-•	EU/EFTA citizens also need to apply for work authorisation. <br>
-•	If you are not an EU/EFTA citizen you will need to get a special residence permit with authorisation to work in Switzerland. <br>
-<br><b>Applying for a Work Permit</b><br><br>
-You will need to submit the following:<br>
-•	Passport<br>
-•	Your employment contract<br>
-•	Proof of residence<br>
-•	Photo <br>
-<br><b>Types of Work Permits</b><br><br>
-https://www.bfm.admin.ch/bfm/en/home/themen/arbeit.html<br>
-<b>Permit L</b> – Short term.<br>
-<b>Permit B</b> – Temporary residence permit.<br>
-<b>Permit C</b> – For those who have been living for 10 continuous years in Switzerland<br>
-<br><b>Employment and Unemployment Benefits</b><br><br>
+# <br><b>Employment and Unemployment Benefits</b><br><br>
 Switzerland is known for having excellent working conditions, the highest employment rates in the world and good salaries. However, if you become unemployed you are entitled to benefits. After losing your job the first thing you want to do is register yourself in the RAV (Regionale Arbeitsvermittlungszentren). This way you can claim unemployment benefits, as long as you have already been working in Switzerland for one year. The RAV makes sure that for a period of time you receive a high percentage (normally about 70%) of your previous salary. In many cases the RAV will also help you with German lessons and other ways of getting back into work.
 <br><br><b>For further information consult the links below:</b><br>
 http://www.treffpunkt-arbeit.ch/<br>
